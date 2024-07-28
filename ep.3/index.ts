@@ -74,3 +74,5 @@ function st(age:number, salary:number, deposit:number) {
 } 
 
 st(17,60000,400)
+
+
