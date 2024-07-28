@@ -14,7 +14,7 @@ console.log (ssss(5,4))
 
 
 function aaaa(a: number, b: number, c: number, d:number) {
-    return a * b * c * d
+    return a * b * c / d
 }
 
 
